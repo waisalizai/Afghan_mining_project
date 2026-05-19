@@ -70,15 +70,6 @@ https://waisalizai.github.io/Afghan_mining_project/
 git clone https://github.com/waisalizai/Afghan_mining_project.git
 ---
 
-
-## 📁 Repository Structure
-- `index.html` — Main project interface  
-- `script.js` — Data processing and visualisation logic  
-- `style.css` — Styling  
-- `assets/` — Images and supporting files  
-
----
-
 ## 👤 Author
 Wais Ahmad Alizai  
 Data Journalist | OSINT Researcher | Data Storyteller  
