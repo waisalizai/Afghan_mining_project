@@ -1,4 +1,4 @@
-# Afghan Mining Expansion: An Open-Source Investigation
+## How nephrite mining is expanding in eastern Afghanistan after Taliban's return to power
 
 ## Live Project
 [https://waisalizai.github.io/Afghan_mining_project/](https://waisalizai.github.io/Afghan_mining_project/)
@@ -79,16 +79,6 @@ https://waisalizai.github.io/Afghan_mining_project/
 ---
 
 ## 👤 Author
-Waisalizai  
-Journalist | OSINT Researcher | Data Storyteller  
+Wais Ahmad Alizai  
+Data Journalist | OSINT Researcher | Data Storyteller  
 
-GitHub: https://github.com/waisalizai  
-
----
-
-## ⚠️ Disclaimer
-This project is based on publicly available data and is intended for research and educational purposes. Interpretations are analytical and do not constitute definitive conclusions.
-
-
-the project is still under work and more details will be written here
-Project Link: 
