@@ -68,8 +68,8 @@ https://waisalizai.github.io/Afghan_mining_project/
 ### 💻 Option 2: Clone with Git (Advanced)
 ```bash
 git clone https://github.com/waisalizai/Afghan_mining_project.git
----
 
+--- 
 ## 👤 Author
 Wais Ahmad Alizai  
 Data Journalist | OSINT Researcher | Data Storyteller  
