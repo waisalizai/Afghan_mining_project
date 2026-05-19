@@ -1,4 +1,4 @@
-## How nephrite mining is expanding in eastern Afghanistan after Taliban's return to power
+## How nephrite mining is expanding in eastern Afghanistan
 
 ## Live Project
 [https://waisalizai.github.io/Afghan_mining_project/](https://waisalizai.github.io/Afghan_mining_project/)
