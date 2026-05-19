@@ -59,18 +59,33 @@ This project demonstrates how open-source tools and satellite data can be used t
 
 ## How to View the Project
 
-### 🌐 Option 1: View Online (Recommended)
+### Option 1: View Online (Recommended)
 Visit the live site:  
 https://waisalizai.github.io/Afghan_mining_project/
 
 ---
 
-### 💻 Option 2: Clone with Git (Advanced)
+### Option 2: Run Locally (No Git Required)
+
+Click the Code button on the repository page
+Select Download ZIP
+Extract the files
+Open index.html in your browser
+ 
+---
+
+### 💻 Option 3: Clone with Git
 ```bash
 git clone https://github.com/waisalizai/Afghan_mining_project.git
 
---- 
-## 👤 Author
-Wais Ahmad Alizai  
-Data Journalist | OSINT Researcher | Data Storyteller  
+Navigate into the project folder and open:
+
+index.html
+
+</bash>
+
+
+
+
+
 
