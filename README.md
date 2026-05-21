@@ -82,7 +82,6 @@ Navigate into the project folder and open:
 
 index.html
 
-</bash>
 
 
 
