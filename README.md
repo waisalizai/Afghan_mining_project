@@ -52,7 +52,7 @@ Using satellite imagery and publicly available data, the project analyses change
 
 ---
 
-## 💡 Significance
+## Significance
 This project demonstrates how open-source tools and satellite data can be used to investigate complex geopolitical and economic developments in inaccessible regions. 
 
 ---
