@@ -57,13 +57,6 @@ This project demonstrates how open-source tools and satellite data can be used t
 
 ---
 
-## How to View the Project
-
-### Option 1: View Online (Recommended)
-Visit the live site:  
-https://waisalizai.github.io/Afghan_mining_project/
-
----
 
 ### Option 2: Run Locally (No Git Required)
 
