@@ -58,25 +58,6 @@ This project demonstrates how open-source tools and satellite data can be used t
 ---
 
 
-### Option 2: Run Locally (No Git Required)
-
-Click the Code button on the repository page
-Select Download ZIP
-Extract the files
-Open index.html in your browser
- 
----
-
-### 💻 Option 3: Clone with Git
-```bash
-git clone https://github.com/waisalizai/Afghan_mining_project.git
-
-Navigate into the project folder and open:
-
-index.html
-
-
-
 
 
 
