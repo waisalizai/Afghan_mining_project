@@ -6,7 +6,7 @@
 ---
 
 ## Overview
-This project is an open-source investigation into the expansion of nephrite mining in Afghanistan following the Taliban’s return to power.
+This project is an open-source investigation into the expansion of nephrite mining in the eastern province of Nangarhar following the Taliban’s return to power.
 
 Using satellite imagery and publicly available data, the project analyses changes in mining infrastructure between 2019 and 2023. It combines geospatial analysis with open-source reporting to identify patterns of development and potential economic activity in resource-rich regions.
 
