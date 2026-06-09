@@ -27,7 +27,7 @@ Using satellite imagery and publicly available data, the project analyses change
 - Imagery from multiple years (2019–2023) was compared  
 - Band combinations were applied to highlight land-use changes  
 
-### 2. Geolocation & Chronolocation
+### 2. Geolocation and Chronolocation
 - Specific mining sites were identified and tracked over time  
 - Changes in terrain and infrastructure were analysed to establish timelines  
 
@@ -52,8 +52,8 @@ Using satellite imagery and publicly available data, the project analyses change
 
 ---
 
-## Significance
-This project demonstrates how open-source tools and satellite data can be used to investigate complex geopolitical and economic developments in inaccessible regions. 
+## Why is it important? 
+This project demonstrates how open-source tools and satellite data can be used to investigate complex geopolitical and economic developments in inaccessible regions, such as Afghanistan. 
 
 ---
 
